@@ -1,0 +1,53 @@
+#opener {
+
+  font-family: monospace;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border: solid white;
+  border-radius: 10px;
+  color: white;
+
+}
+
+
+body {
+  background-image: url(68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f696d5751673430594d4468435a413d3d2d3931363431363930352e313631663632363034613337313466303333393939373332333532382e676966.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.form-center {
+  color: white;
+  font-family: monospace;
+}
+
+.form-input {
+  color: white;
+  margin-bottom: 5px;
+  font-family: monospace;
+}
+
+.first {
+  margin-right: 5px;
+}
+
+.gender-header {
+  color: white;
+  font-family: monospace;
+  border: solid white;
+  border-radius: 5px;
+  display: inline-block;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-top: 10px;
+}
+
+.additional-info {
+  color: white;
+  font-family: monospace;
+}
+
+#additional-info-box {
+  width: 60%;
+}
